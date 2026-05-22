@@ -1,0 +1,1 @@
+Si bien en este curso trabajamos con archivos desde Visual Studio Code, recuerda que la intención de este curso es trabajar con Git, gracias a lo cual vamos a tener que gran parte del trabajo es gestionado por git y no en archivos estáticos, por lo que aunque te proporcionemos los archivos utilizados, vale más que prestes atención a las explicaciones y al flujo de la clase.
